@@ -18,8 +18,42 @@ Include your answers in this document (Rmd file). Make sure that it knits proper
 All submissions to the github repo will be automatically uploaded for grading once the due date is passed.
 Submit a link to your repository on Canvas (only one submission per team) to signal to the instructors that you are done with your submission.
 
-**Step 12.2 Make a repo on Github**
+<<<<<<< HEAD
+
+=======
+
+## Step 12.1 — Prerequisites
+- Phillip's note: No problems setting up the Prerequisites
+- betsy's note: no problems 
+- Ivy's note: All done.
+
+## Step 12.2 — Make a repo on GitHub
+- Phillip's note: No problems connecting github to classroom/creating repo
+- betsy's note:remember that you have to go to the terminal
 - Ivy's note: I think we just use the link given by the professor, so this step is good.
 
-**Step 12.3 Clone the test GitHub repository to your computer via RStudio**
+
+## Step 12.3 — Clone the test GitHub repository to your computer via RStudio
+- Phillip's note: No issues cloning the repo!
+- betsy's note: make sure you know where the new project is being saved
 - Ivy's note: Successfully done with the help of group mate. 
+
+
+## Step 12.4 — Make local changes, save, commit
+- Phillip's note: added line to readme, then staged/commit from RStudio!
+- betsy's note: remember to save before committing
+- Ivy's note: Need to save before committing.
+
+## Step 12.5 — Push your local changes online to GitHub
+- Phillip's note: Pushed through RStudio, no issue.
+- betsy's note: push 
+
+## Step 12.6 — Confirm the local change propagated to the GitHub remote
+- Phillip's note: No problems! Commit can be found in repo's history
+- betsy's note: reload github
+
+## Step 12.7 — Clean up
+- Phillip's note: Not deleting repo as instructed. 
+- betsy's note: no deleting for this lab
+
+>>>>>>> d006f3f6a3258547de80cff0abba00c3548a9841
