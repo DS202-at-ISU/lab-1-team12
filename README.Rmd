@@ -42,7 +42,7 @@ Submit a link to your repository on Canvas (only one submission per team) to sig
 ## Step 12.4 — Make local changes, save, commit
 - Phillip's note: added line to readme, then staged/commit from RStudio!
 - betsy's note: remember to save before committing
-- Ivy's note: Need to save before committing.
+- Ivy's note: Need to save before committing. Need to pull the latest changes to ensure the version is up to date.
 - Nhu's note: “This is a line from RStudio”. Added this line, staged and committed the change.
 
 
