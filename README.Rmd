@@ -55,13 +55,13 @@ Submit a link to your repository on Canvas (only one submission per team) to sig
 ## Step 12.6 — Confirm the local change propagated to the GitHub remote
 - Phillip's note: No problems! Commit can be found in repo's history
 - betsy's note: reload github
-- Ivy's note: ABle to see the commits.
+- Ivy's note: Able to see the commits.
 - Nhu's note: Reloaded and saw the commits.
 
 ## Step 12.7 — Clean up
 - Phillip's note: Not deleting repo as instructed. 
 - betsy's note: no deleting for this lab
-- Ivy's note: awe are not required to  delete the repo.
+- Ivy's note: We are not required to  delete the repo.
 - Nhu's note: not deleting the repo.
 
 
