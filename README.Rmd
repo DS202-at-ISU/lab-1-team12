@@ -17,3 +17,25 @@ Include your answers in this document (Rmd file). Make sure that it knits proper
 
 All submissions to the github repo will be automatically uploaded for grading once the due date is passed.
 Submit a link to your repository on Canvas (only one submission per team) to signal to the instructors that you are done with your submission.
+
+
+## Step 12.1 — Prerequisites
+- Phillip's note: No problems setting up the Prerequisites
+
+## Step 12.2 — Make a repo on GitHub
+- Phillip's note: No problems connecting github to classroom/creating repo
+
+## Step 12.3 — Clone the test GitHub repository to your computer via RStudio
+- Phillip's note: No issues cloning the repo!
+
+## Step 12.4 — Make local changes, save, commit
+- Phillip's note: added line to readme, then staged/commit from RStudio!
+
+## Step 12.5 — Push your local changes online to GitHub
+- Phillip's note: Pushed through RStudio, no issue.
+
+## Step 12.6 — Confirm the local change propagated to the GitHub remote
+- Phillip's note: No problems! Commit can be found in repo's history
+
+## Step 12.7 — Clean up
+- Phillip's note: Not deleting repo as instructed. 
