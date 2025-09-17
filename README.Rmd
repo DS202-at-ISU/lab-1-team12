@@ -52,12 +52,13 @@ Submit a link to your repository on Canvas (only one submission per team) to sig
 ## Step 12.5 — Push your local changes online to GitHub
 - Phillip's note: Pushed through RStudio, no issue.
 - betsy's note: push 
-- Ivy's note: 
+- Ivy's note: Successfully done.
 - Nhu's note: Pushed to Github repo. Had a merge conflict and fixed by running the command system("git config pull.rebase true") in the terminal.
 
 ## Step 12.6 — Confirm the local change propagated to the GitHub remote
 - Phillip's note: No problems! Commit can be found in repo's history
 - betsy's note: reload github
+- Ivy's note: 
 - Nhu's note: Reloaded and saw the commits.
 
 ## Step 12.7 — Clean up
