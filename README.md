@@ -17,11 +17,57 @@ grading once the due date is passed. Submit a link to your repository on
 Canvas (only one submission per team) to signal to the instructors that
 you are done with your submission.
 
-# This is a line from RStudio
+## Step 12.1 — Prerequisites
 
-# This is a line from RStudio
+- Phillip’s note: No problems setting up the Prerequisites
+- betsy’s note: no problems
+- Ivy’s note: All done.
+- Nhu’s note: Complete the prerequisites.
 
-# This is a line from RStudio
+## Step 12.2 — Make a repo on GitHub
 
-# This is a line from RStudio
+- Phillip’s note: No problems connecting github to classroom/creating
+  repo
+- betsy’s note:remember that you have to go to the terminal
+- Ivy’s note: I think we just use the link given by the professor, so
+  this step is good.
+- Nhu’s note: Created the repo with no issues.
 
+## Step 12.3 — Clone the test GitHub repository to your computer via RStudio
+
+- Phillip’s note: No issues cloning the repo!
+- betsy’s note: make sure you know where the new project is being saved
+- Ivy’s note: Successfully done with the help of group mate.
+- Nhu’s note: Have no issues cloning the repo.
+
+## Step 12.4 — Make local changes, save, commit
+
+- Phillip’s note: added line to readme, then staged/commit from RStudio!
+- betsy’s note: remember to save before committing
+- Ivy’s note: Need to save before committing. Need to pull the latest
+  changes to ensure the version is up to date.
+- Nhu’s note: “This is a line from RStudio”. Added this line, staged and
+  committed the change.
+
+## Step 12.5 — Push your local changes online to GitHub
+
+- Phillip’s note: Pushed through RStudio, no issue.
+- betsy’s note: push
+- Ivy’s note: Successfully done.
+- Nhu’s note: Pushed to Github repo. Had a merge conflict and fixed by
+  running the command system(“git config pull.rebase true”) in the
+  terminal.
+
+## Step 12.6 — Confirm the local change propagated to the GitHub remote
+
+- Phillip’s note: No problems! Commit can be found in repo’s history
+- betsy’s note: reload github
+- Ivy’s note: Able to see the commits.
+- Nhu’s note: Reloaded and saw the commits.
+
+## Step 12.7 — Clean up
+
+- Phillip’s note: Not deleting repo as instructed.
+- betsy’s note: no deleting for this lab
+- Ivy’s note: We are not required to delete the repo.
+- Nhu’s note: not deleting the repo.
